@@ -5,10 +5,10 @@ PhD candidate in electrical engineering at Northeastern University.
 **Currently working on**
 - CMOS-integrated piezoMEMS ultrasound for mechanobiology and electronics metrology
 - Ultrasound data processing and image segmentation
-- Nanofabrication of micro/nano devices for biomolecular sensing
+- Micro/nanofabrication of devices for biomolecular sensing
 - Additive manufacturing of microsystems
 
-**Interests** — RF & ultrasound systems · ultrasound image segmentation · scientific Python · nanofab process development
+**Interests** — RF & ultrasound systems · ultrasound data processing & image segmentation · scientific Python · micro/nanofabrication process development
 
 🌐 [Portfolio](https://arinmanav.com) &nbsp;·&nbsp; 📄 [CV](https://arinmanav.github.io/cv)
 
