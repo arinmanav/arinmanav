@@ -1,10 +1,10 @@
 ### Hi, I'm Arin 👋
 
-PhD candidate in microsystems. I build things at the intersection of CMOS, MEMS, and measurement.
+PhD candidate in electrical engineering at Northeastern University.
 
 **Currently working on**
-- GHz piezoMEMS ultrasound for mechanobiology and electronics metrology
-- Ultrasound image segmentation
+- CMOS-integrated piezoMEMS ultrasound for mechanobiology and electronics metrology
+- Ultrasound data processing and image segmentation
 - Nanofabrication of micro/nano devices for biomolecular sensing
 - Additive manufacturing of microsystems
 
@@ -24,7 +24,3 @@ PhD candidate in microsystems. I build things at the intersection of CMOS, MEMS,
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-<br>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=arinmanav&show_icons=true&hide_border=true&hide=issues&include_all_commits=true)
