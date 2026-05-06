@@ -10,7 +10,7 @@ PhD candidate in electrical engineering at Northeastern University.
 
 **Interests** — RF & ultrasound systems · ultrasound signal processing & image segmentation · scientific Python · micro/nanofabrication process development
 
-🌐 [Portfolio](https://arinmanav.com) &nbsp;·&nbsp; 📄 [CV](https://arinmanav.github.io/cv)
+🌐 [Portfolio](https://arinmanav.com)
 
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=mx-NdNcAAAAJ&hl=en)
 
