@@ -40,8 +40,3 @@ PhD candidate in electrical engineering at Northeastern University.
 
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-![Stats](https://github-readme-stats.vercel.app/api?username=arinmanav&show_icons=true&hide_border=true&hide=issues&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arinmanav&layout=compact&hide_border=true)
